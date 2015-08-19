@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>BenyFu's personal blog</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-">
+  <title>Ubuntu/Debian texlive install</title>
+  <meta name="description" content="1.安装texlivesudo apt-get install texlive-xetex latex-cjk-all##2.安装texstudiosudo apt-get install texstudio">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://yourdomain.com/">
+  <link rel="canonical" href="http://yourdomain.com/jekyll/update/2015/04/19/ubuntu-texlive.html">
   <link rel="alternate" type="application/rss+xml" title="BenyFu's personal blog" href="http://yourdomain.com/feed.xml" />
 </head>
 
@@ -55,39 +54,27 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title">Ubuntu/Debian texlive install</h1>
+    <p class="post-meta">Apr 19, 2015</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Aug 19, 2015</span>
+  <article class="post-content">
+    <h2 id="texlive">1.安装texlive</h2>
+<p><code>
+sudo apt-get install texlive-xetex latex-cjk-all
+</code>
+##2.安装texstudio
+<code>sudo apt-get install texstudio</code></p>
 
-        <h2>
-          <a class="post-link" href="/jekyll/update/2015/08/19/welcome-to-jekyll.html">Welcome to Jekyll!</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Aug 19, 2015</span>
+<h2 id="texstudio">3.配置texstudio</h2>
+<p>打开texstudio
+选择Options-&gt;Configure TexStudio可以配置语言
+在Options-&gt;Configure TexStudio-&gt;构建 中将默认编译器改为XeLatex即可使用ctex/cjk编辑中文了</p>
 
-        <h2>
-          <a class="post-link" href="/blog/2015/08/19/network.html">OpenWrt Barrier Breaker 14.07 IPv6 Configuretion in Compus Network</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Apr 19, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/jekyll/update/2015/04/19/ubuntu-texlive.html">Ubuntu/Debian texlive install</a>
-        </h2>
-      </li>
-    
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+  </article>
 
 </div>
 
