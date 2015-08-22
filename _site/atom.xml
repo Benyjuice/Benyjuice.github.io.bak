@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://127.0.0.1:4000/</id>
+	<id>https://benyjuice.github.io/</id>
 	<title>BenyFu的个人博客</title>
-	<updated>2015-08-22T13:51:51+08:00</updated>
+	<updated>2015-08-22T13:56:12+08:00</updated>
 
 	<subtitle>BenyFu在此写下了一些技术感悟</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://127.0.0.1:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" />
+	<link href="https://benyjuice.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://benyjuice.github.io/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="2.5.3">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/typography/</id>
+			<id>https://benyjuice.github.io/design/typography/</id>
 			<title>Wonderful Typography</title>
-			<link href="http://127.0.0.1:4000/design/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
+			<link href="https://benyjuice.github.io/design/typography/" rel="alternate" type="text/html" title="Wonderful Typography" />
 			<updated>2015-11-16T00:00:00+08:00</updated>
 
 			
@@ -44,7 +44,7 @@
 				</author>
 			
 			<summary>&lt;em&gt;Feeling Responsive&lt;/em&gt; uses &lt;a href=&#39;https://www.google.com/fonts/specimen/Volkhov&#39;&gt;Volkhov&lt;/a&gt; for headlines, &lt;a href=&#39;https://www.google.com/fonts/specimen/Lato&#39;&gt;Lato&lt;/a&gt; for everything else and if you are in need to show some code, it will be in &lt;a href=&#39;http://www.microsoft.com/typography/fonts/family.aspx?FID=18&#39;&gt;Lucida Console&lt;/a&gt; or &lt;a href=&#39;http://en.wikipedia.org/wiki/Monaco_(typeface)&#39;&gt;Monaco&lt;/a&gt;.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/typography/">&lt;!--more--&gt;
+			<content type="html" xml:base="https://benyjuice.github.io/design/typography/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
@@ -492,9 +492,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/comments/</id>
+			<id>https://benyjuice.github.io/design/comments/</id>
 			<title>Now with Comments!</title>
-			<link href="http://127.0.0.1:4000/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
+			<link href="https://benyjuice.github.io/design/comments/" rel="alternate" type="text/html" title="Now with Comments!" />
 			<updated>2015-11-15T00:00:00+08:00</updated>
 
 			
@@ -510,7 +510,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>For a blog you need comments. Like all those other jekyll themes we baked in Disqus. It&#39;s easy to set, it works and makes a static jekyll blog more dynamic.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code&gt;config.yml&lt;/code&gt; and add your &lt;code&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
+			<content type="html" xml:base="https://benyjuice.github.io/design/comments/">&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code&gt;config.yml&lt;/code&gt; and add your &lt;code&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
@@ -525,9 +525,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/no-header/</id>
+			<id>https://benyjuice.github.io/design/no-header/</id>
 			<title>No Header</title>
-			<link href="http://127.0.0.1:4000/design/no-header/" rel="alternate" type="text/html" title="No Header" />
+			<link href="https://benyjuice.github.io/design/no-header/" rel="alternate" type="text/html" title="No Header" />
 			<updated>2015-10-11T00:00:00+08:00</updated>
 
 			
@@ -543,7 +543,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows &lt;em&gt;no&lt;/em&gt; header at all. Just the navigation.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
+			<content type="html" xml:base="https://benyjuice.github.io/design/no-header/">&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;header: no
@@ -556,19 +556,19 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -591,9 +591,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/jekyll/update/welcome-to-jekyll/</id>
+			<id>https://benyjuice.github.io/jekyll/update/welcome-to-jekyll/</id>
 			<title>Welcome to Jekyll!</title>
-			<link href="http://127.0.0.1:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+			<link href="https://benyjuice.github.io/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
 			<updated>2015-08-19T23:13:08+08:00</updated>
 
 			
@@ -609,7 +609,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+			<content type="html" xml:base="https://benyjuice.github.io/jekyll/update/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -636,9 +636,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/blog/network/</id>
+			<id>https://benyjuice.github.io/blog/network/</id>
 			<title>OpenWrt Barrier Breaker 14.07 IPv6 Configuretion in Compus Network</title>
-			<link href="http://127.0.0.1:4000/blog/network/" rel="alternate" type="text/html" title="OpenWrt Barrier Breaker 14.07 IPv6 Configuretion in Compus Network" />
+			<link href="https://benyjuice.github.io/blog/network/" rel="alternate" type="text/html" title="OpenWrt Barrier Breaker 14.07 IPv6 Configuretion in Compus Network" />
 			<updated>2015-08-19T23:13:08+08:00</updated>
 
 			
@@ -654,7 +654,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/blog/network/">&lt;h2 id=&quot;ipv6&quot;&gt;1.链接IPv6&lt;/h2&gt;
+			<content type="html" xml:base="https://benyjuice.github.io/blog/network/">&lt;h2 id=&quot;ipv6&quot;&gt;1.链接IPv6&lt;/h2&gt;
 &lt;p&gt;OpenWrt Barrier Breaker 14.07内建IPv6支持,我的mw150r v5.0/v6.3刷入 TL-WR741N/ND v4的固件之后，PPPoE拨号直接获取IPv6地址
 不用复杂的设置。记得在高级选项启用IPv6协商(Enable IPv6 negotiation on the PPP link)。&lt;/p&gt;
 
@@ -743,9 +743,9 @@ element&lt;/td&gt;
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/jekyll/update/ubuntu-texlive/</id>
+			<id>https://benyjuice.github.io/jekyll/update/ubuntu-texlive/</id>
 			<title>Ubuntu/Debian texlive install</title>
-			<link href="http://127.0.0.1:4000/jekyll/update/ubuntu-texlive/" rel="alternate" type="text/html" title="Ubuntu/Debian texlive install" />
+			<link href="https://benyjuice.github.io/jekyll/update/ubuntu-texlive/" rel="alternate" type="text/html" title="Ubuntu/Debian texlive install" />
 			<updated>2015-04-19T23:13:08+08:00</updated>
 
 			
@@ -761,7 +761,7 @@ element&lt;/td&gt;
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/jekyll/update/ubuntu-texlive/">&lt;h2 id=&quot;texlive&quot;&gt;1.安装texlive&lt;/h2&gt;
+			<content type="html" xml:base="https://benyjuice.github.io/jekyll/update/ubuntu-texlive/">&lt;h2 id=&quot;texlive&quot;&gt;1.安装texlive&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;
 sudo apt-get install texlive-xetex latex-cjk-all
 &lt;/code&gt;
@@ -785,9 +785,9 @@ sudo apt-get install texlive-xetex latex-cjk-all
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/no-header-but-image/</id>
+			<id>https://benyjuice.github.io/design/no-header-but-image/</id>
 			<title>No Header but Article Image</title>
-			<link href="http://127.0.0.1:4000/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
+			<link href="https://benyjuice.github.io/design/no-header-but-image/" rel="alternate" type="text/html" title="No Header but Article Image" />
 			<updated>2015-03-12T00:00:00+08:00</updated>
 
 			
@@ -803,7 +803,7 @@ sudo apt-get install texlive-xetex latex-cjk-all
 				</author>
 			
 			<summary>Feeling Responsive enables you to get the attention of visitors. If you don&#39;t want to use a big header, use an image for the article instead.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
+			<content type="html" xml:base="https://benyjuice.github.io/design/no-header-but-image/">&lt;p&gt;First turn of the header with &lt;code&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;header: no
@@ -820,19 +820,19 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -855,9 +855,9 @@ image:
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/header-with-text/</id>
+			<id>https://benyjuice.github.io/design/header-with-text/</id>
 			<title>Header With Text</title>
-			<link href="http://127.0.0.1:4000/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
+			<link href="https://benyjuice.github.io/design/header-with-text/" rel="alternate" type="text/html" title="Header With Text" />
 			<updated>2015-02-10T00:00:00+08:00</updated>
 
 			
@@ -873,7 +873,7 @@ image:
 				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This header is with text.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/header-with-text/">&lt;!--more--&gt;
+			<content type="html" xml:base="https://benyjuice.github.io/design/header-with-text/">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
 
@@ -891,19 +891,19 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -926,9 +926,9 @@ image:
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/header-logo-only/</id>
+			<id>https://benyjuice.github.io/design/header-logo-only/</id>
 			<title>Header With Logo Only</title>
-			<link href="http://127.0.0.1:4000/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
+			<link href="https://benyjuice.github.io/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
 			<updated>2014-10-09T00:00:00+08:00</updated>
 
 			
@@ -944,7 +944,7 @@ image:
 				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/header-logo-only/">&lt;p&gt;No front matter code needed.
+			<content type="html" xml:base="https://benyjuice.github.io/design/header-logo-only/">&lt;p&gt;No front matter code needed.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
@@ -954,19 +954,19 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -989,9 +989,9 @@ image:
 		</entry>
 	
 		<entry>
-			<id>http://127.0.0.1:4000/design/header-image-color/</id>
+			<id>https://benyjuice.github.io/design/header-image-color/</id>
 			<title>Header Image With Background Color</title>
-			<link href="http://127.0.0.1:4000/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
+			<link href="https://benyjuice.github.io/design/header-image-color/" rel="alternate" type="text/html" title="Header Image With Background Color" />
 			<updated>2014-10-09T00:00:00+08:00</updated>
 
 			
@@ -1007,7 +1007,7 @@ image:
 				</author>
 			
 			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image with a defined background color via front matter.</summary>
-			<content type="html" xml:base="http://127.0.0.1:4000/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://127.0.0.1:4000/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
+			<content type="html" xml:base="https://benyjuice.github.io/design/header-image-color/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
@@ -1029,19 +1029,19 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://127.0.0.1:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
