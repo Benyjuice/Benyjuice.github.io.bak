@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "OpenWrt Barrier Breaker 14.07 IPv6 Configuretion in Compus Network"
 date:   2015-08-19 15:13:08
 categories: Blog

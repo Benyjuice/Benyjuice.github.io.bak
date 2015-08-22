@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Ubuntu/Debian texlive install"
 date:   2015-04-19 15:13:08
 categories: jekyll update
