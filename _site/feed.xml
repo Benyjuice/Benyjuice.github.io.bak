@@ -505,6 +505,21 @@ element&lt;/td&gt;
 			</item>
 		
 			<item>
+				<title>OpenWRT port roadmap</title>
+				<link>https://benyjuice.github.io/blog/openwrt-port/</link>
+				<pubDate>Sun, 23 Aug 2015 23:13:08 +0800</pubDate>
+				<description>&lt;h2 id=&quot;patch&quot;&gt;1.制作Patch&lt;/h2&gt;
+&lt;p&gt;In my Baidu NetDisk&lt;/p&gt;
+
+&lt;h2 id=&quot;pppmakefilepthread&quot;&gt;2.修改ppp的Makefile,添加pthread的依赖&lt;/h2&gt;
+
+&lt;h2 id=&quot;pppoeup&quot;&gt;3.pppoeup&lt;/h2&gt;
+&lt;p&gt;In my github repo&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://benyjuice.github.io/blog/openwrt-port/</guid>
+			</item>
+		
+			<item>
 				<title>Welcome to Jekyll!</title>
 				<link>https://benyjuice.github.io/jekyll/update/welcome-to-jekyll/</link>
 				<pubDate>Wed, 19 Aug 2015 23:13:08 +0800</pubDate>
@@ -752,54 +767,6 @@ image:
 
 </description>
 				<guid isPermaLink="true">https://benyjuice.github.io/design/header-logo-only/</guid>
-			</item>
-		
-			<item>
-				<title>Header Image With Background Color</title>
-				<link>https://benyjuice.github.io/design/header-image-color/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0800</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;alert-box alert radius &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;pre&gt;&lt;code&gt;header:
-    image: &quot;header_unsplash_2-970x.jpg&quot;
-    background-color: &quot;#fabb00&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://benyjuice.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">https://benyjuice.github.io/design/header-image-color/</guid>
 			</item>
 		
 	</channel>
