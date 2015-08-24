@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://benyjuice.github.io/sitemap.xml
