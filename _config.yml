@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: 华悦电子科技工作室-技术宅为你创造
 description: 技术宅为你创造
 meta_description: "华悦电子科技工作室-技术宅为你创造"
 
@@ -18,9 +18,9 @@ disqus: false
 disqus_shortname: 'Huayue'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         '华悦工作室'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://huayuebox.com'
+author:         '华悦电子科技工作室'
+authorTwitter:  'fuckGFW'
 
 permalink:       /:year/:title/
 

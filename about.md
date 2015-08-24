@@ -11,5 +11,5 @@ profile: true
 
 *单线多拨技术，一个帐号一台路由享受4倍极速网络
 *全线兼容IPv4/IPv6双协议栈，不做网络时代的Later
-*多种硬件版本可选，详见[产品](https://benyjuice.github.io)
+*多种硬件版本可选，详见[产品]({{site.domain_name}}/welcome)
 {% include footer.html %}
