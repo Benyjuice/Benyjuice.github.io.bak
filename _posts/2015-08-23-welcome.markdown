@@ -1,10 +1,10 @@
 ---
-title:  "欢迎来到华悦!"
+title:  "欢迎来到华悦电子科技!"
 date:   2015-08-23 10:18:00
 description: 产品及网站指南
 ---
 
-[华悦][huayue]现经营产品目录
+# [华悦电子科技][huayue]现经营产品目录
 
 | 华悦型号       | 路由ID         | 配置       |
 | ------------- |:-------------:| ----------:|
@@ -12,8 +12,9 @@ description: 产品及网站指南
 | Huayue H1s    | 720N      	| 多拨+单LAN |
 | Huayue H2     | 155R          | 多拨+4*LAN |
 
-购买请加微信号：
-联系电话：*18945643950*
+# 购买联系电话：**18945642950**
+# 扫一扫了解详情： 
+![Test01](/assets/images/mmqrcode1.png)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com

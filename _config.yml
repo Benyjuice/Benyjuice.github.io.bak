@@ -1,6 +1,6 @@
 name: Your New Jekyll Site
 description: 技术宅为你创造
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "华悦电子科技工作室-技术宅为你创造"
 
 aboutPage: true
 
@@ -12,10 +12,10 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.huayuebox.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'Huayue'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'

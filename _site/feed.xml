@@ -7,15 +7,28 @@
     <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>欢迎来到华悦!</title>
+        <title>IPv6常用资源</title>
         
         
-          <description>&lt;p&gt;&lt;a href=&quot;https://127.0.0.1:4000/about&quot;&gt;华悦&lt;/a&gt;现经营产品目录&lt;/p&gt;
+          <description>&lt;p&gt;&lt;a href=&quot;tv.byr.cn&quot;&gt;北京邮电大学电视直播IPv6 Only&lt;/a&gt; 包含中央综合，综艺，体育，5+，电影，电视剧等;浙江、江苏、湖南卫视等高清频道;其他标清频道
+&lt;a href=&quot;tv.jlu6.edu.cn&quot;&gt;吉林大学电视直播IPv6 Only&lt;/a&gt;只含有标请频道，包含湖南卫视&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 24 Aug 2015 00:18:00 +0800</pubDate>
+        <link>http://your-blog-url.example.com/2015/ipv6/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/ipv6/</guid>
+      </item>
+    
+      <item>
+        <title>欢迎来到华悦电子科技!</title>
+        
+        
+          <description>&lt;h1&gt;&lt;a href=&quot;https://benyjuice.github.io/about&quot;&gt;华悦电子科技&lt;/a&gt;现经营产品目录&lt;/h1&gt;
 </description>
         
         <pubDate>Sun, 23 Aug 2015 18:18:00 +0800</pubDate>
-        <link>http://your-blog-url.example.com/2015/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/welcome-to-jekyll/</guid>
+        <link>http://your-blog-url.example.com/2015/welcome/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/welcome/</guid>
       </item>
     
   </channel>
