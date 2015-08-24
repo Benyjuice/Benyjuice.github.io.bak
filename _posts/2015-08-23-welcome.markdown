@@ -17,7 +17,6 @@ permalink: welcome
 # 扫一扫了解详情： 
 ![Test01](/assets/images/mmqrcode1.png)
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
-[huayue]: https://benyjuice.github.io/about
+
+[huayue]: http://huayuebox.com/about
 
