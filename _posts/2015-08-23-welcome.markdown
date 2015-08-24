@@ -2,6 +2,7 @@
 title:  "欢迎来到华悦电子科技!"
 date:   2015-08-23 10:18:00
 description: 产品及网站指南
+permalink: welcome
 ---
 
 # [华悦电子科技][huayue]现经营产品目录
@@ -19,3 +20,4 @@ description: 产品及网站指南
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
 [huayue]: https://benyjuice.github.io/about
+
