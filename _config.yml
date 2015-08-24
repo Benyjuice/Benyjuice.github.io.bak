@@ -1,10 +1,13 @@
 name: Your New Jekyll Site
-description: Blogging about stuffs
+description: 技术宅为你创造
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
 
+#markdown: redcarpet
 markdown: redcarpet
+redcarpet:
+    extensions: ["tables"]
 highlighter: pygments
 
 paginate: 20
@@ -16,7 +19,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+author:         '华悦工作室'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/

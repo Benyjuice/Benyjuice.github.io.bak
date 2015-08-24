@@ -4,6 +4,12 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+华悦工作室成立与2014年10月。成立之初便致力于提供更好更快更稳定的路由服务。
 
+2014年10月推出的“深澜”破解路由器第一版，一经推出就取得惊人的销量。但是，华悦从未停止创造！
+2015年8月，华悦推出多拨路由器（第二版）。在第一版基础上增加一下新功能：
+
+*单线多拨技术，一个帐号一台路由享受4倍极速网络
+*全线兼容IPv4/IPv6双协议栈，不做网络时代的Later
+*多种硬件版本可选，详见[产品](https://benyjuice.github.io)
 {% include footer.html %}

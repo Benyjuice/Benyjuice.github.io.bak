@@ -1,23 +1,20 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-description: Thriller Comedy Horror
+title:  "欢迎来到华悦!"
+date:   2015-08-23 10:18:00
+description: 产品及网站指南
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+[华悦][huayue]现经营产品目录
 
-Jekyll also offers powerful support for code snippets:
+| 华悦型号       | 路由ID         | 配置       |
+| ------------- |:-------------:| ----------:|
+| Huayue H1     | 720N          | 单拨+单LAN |
+| Huayue H1s    | 720N      	| 多拨+单LAN |
+| Huayue H2     | 155R          | 多拨+4*LAN |
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+购买请加微信号：
+联系电话：*18945643950*
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
+[huayue]: https://benyjuice.github.io/about
